@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="FirstTouch">
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <circle cx="32" cy="32" r="18" fill="#2f9e57"/>
+  <path d="M32 16l4.2 7.2 8.2.8-6.2 5.4 1.8 8-8-4.6-8 4.6 1.8-8-6.2-5.4 8.2-.8z" fill="#111111"/>
+</svg>
